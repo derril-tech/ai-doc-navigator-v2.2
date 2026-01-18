@@ -1,8 +1,6 @@
 # 🧭 AI DocNavigator
 **with LangGraph & OpenAI**
 
-🌐 **See the Live Application**: [https://ai-doc-navigator.vercel.app/](https://ai-doc-navigator.vercel.app/)
-
 > **Navigate any GitHub repository like a graph. Ask questions, get intelligent answers with precise citations, and explore codebases with AI-powered insights—all in real-time.** ⚡
 
 ---
@@ -233,7 +231,5 @@ Choose from five analysis styles to match your needs:
 
 
 Made with ❤️ and ☕ by [Derril Filemon](https://github.com/derril-tech)
-
-[🌐 Live Demo](https://ai-doc-navigator.vercel.app/) 
 
 </div>
